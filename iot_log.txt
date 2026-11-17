@@ -1,0 +1,4 @@
+MyRoom: 28C - Fan ON - Alert sent
+MyRoom: 23C - Fan OFF - All good
+MyRoom: 28C - Fan ON - Alert sent
+MyRoom: 23C - Fan OFF - All good
